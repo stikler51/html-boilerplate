@@ -1,0 +1,17 @@
+body {
+  background: aliceblue;
+}
+
+h1 {
+  color: red;
+}
+
+.custom-element {
+  display: flex;
+}
+
+.custom-element-2 {
+  display: flex;
+}
+
+/*# sourceMappingURL=styles.css.map */
